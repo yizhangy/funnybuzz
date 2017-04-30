@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   <properties>
 	<junit.version>4.11</junit.version>
-	<jersey.version>2.6</jersey.version>
+	<jersey.version>2.9</jersey.version>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<maven.compiler.source>1.8</maven.compiler.source>
 	<maven.compiler.target>1.8</maven.compiler.target>
